@@ -2,7 +2,7 @@
     <section class="mw-main mw-flex mw-flex--jc mw-flex--ai">
         <div class="mw-midbox mw-flex">
             <div class="mw-left-pic">
-                <img src="<?=URL?>/images/me.jpg" alt="Muhammad Waseem">
+                <img src="<?=URL?>/assets/images/me.jpg" alt="Muhammad Waseem">
 
                 <div class="mw-left-contact mw-flex">
                     <span><i class="fab fa-whatsapp-square"></i><a href="https://wa.me/923022736286" target="_blank">+92-302-2736286</a></span>
